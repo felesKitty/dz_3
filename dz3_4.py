@@ -1,4 +1,3 @@
-
 def degree(x, y):
     try:
         res = x ** y

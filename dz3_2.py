@@ -1,4 +1,3 @@
-
 def info_about_user(name, surname, year_of_born, city,
                     e_mail, phone_number):
     return f'Name: {name}. Surname: {surname}. ' \
