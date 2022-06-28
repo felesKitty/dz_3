@@ -1,4 +1,3 @@
-
 numbers = 0
 try:
     while numbers != 'Q':

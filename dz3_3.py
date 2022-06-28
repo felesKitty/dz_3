@@ -1,4 +1,3 @@
-
 def my_func(arg_01, arg_02, arg_03):
     try:
         my_list = list(map(float, [arg_01, arg_02, arg_03]))

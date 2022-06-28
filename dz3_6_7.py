@@ -1,4 +1,3 @@
-
 def int_func():
      for words in input('If you want to see a miracle, '
                         'enter any words, which contains'
